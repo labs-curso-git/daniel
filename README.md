@@ -4,4 +4,4 @@ Prácticas Git
 
 Juego de tecleo
 
-Cambio remoto
+Cambio remoto despues de conflicto
